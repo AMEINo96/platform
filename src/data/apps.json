@@ -1,26 +1,58 @@
 [
   {
     "id": "1",
-    "title": "Example Game",
-    "description": "An example of an embedded game. (This is just a placeholder link)",
+    "title": "StagePlay Commerce",
+    "description": "An e-commerce stageplay: product photography as character.",
     "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=500",
     "link": "https://www.google.com/webhp?igu=1",
-    "openIn": "modal"
+    "openIn": "modal",
+    "tags": [
+      "React",
+      "WebGL",
+      "Commerce"
+    ],
+    "category": "Brand"
   },
   {
     "id": "2",
     "title": "Skill Match",
-    "description": "Connecting students with the perfect teammates for hackathons, projects, and collaborative learning",
+    "description": "Connecting students with the perfect teammates for hackathons.",
     "imageUrl": "/Gemini_Generated_Image_q18n8rq18n8rq18n.png",
     "link": "https://skill-match-website.web.app/",
-    "openIn": "new-tab"
+    "openIn": "new-tab",
+    "tags": [
+      "React",
+      "Firebase",
+      "Social"
+    ],
+    "category": "Webapp"
   },
   {
     "id": "3",
-    "title": "Local Demo Game",
-    "description": "A game hosted directly inside this platform.",
+    "title": "Shadow Ops",
+    "description": "A tactical stealth game hosted directly inside this platform.",
     "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80&w=500",
     "link": "/apps/demo-game/index.html",
-    "openIn": "modal"
+    "openIn": "modal",
+    "tags": [
+      "GameDev",
+      "Canvas",
+      "Audio"
+    ],
+    "category": "Game"
+  },
+  {
+    "id": "4",
+    "title": "Neural Interface",
+    "description": "Experimental UI exploring brain-computer interface aesthetics.",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=500",
+    "link": "#",
+    "openIn": "modal",
+    "tags": [
+      "Experimental",
+      "Three.js",
+      "Shader"
+    ],
+    "category": "Experimental"
   }
 ]
