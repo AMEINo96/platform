@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Example Game",
+    "description": "An example of an embedded game. (This is just a placeholder link)",
+    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=500",
+    "link": "https://www.google.com/webhp?igu=1",
+    "openIn": "modal"
+  },
+  {
+    "id": "2",
+    "title": "Skill Match",
+    "description": "Connecting students with the perfect teammates for hackathons, projects, and collaborative learning",
+    "imageUrl": "/Gemini_Generated_Image_q18n8rq18n8rq18n.png",
+    "link": "https://skill-match-website.web.app/",
+    "openIn": "new-tab"
+  },
+  {
+    "id": "3",
+    "title": "Local Demo Game",
+    "description": "A game hosted directly inside this platform.",
+    "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80&w=500",
+    "link": "/apps/demo-game/index.html",
+    "openIn": "modal"
+  }
+]
