@@ -7,7 +7,7 @@
         "philosophy": "We craft worlds that hide in plain sight.",
         "description": "Specializing in immersive digital experiences and narrative-driven design. Transforming abstract concepts into tangible digital realities.",
         "imageUrl": "/founder.png",
-        "portfolioUrl": "https://portfolio-founder-1.com"
+        "portfolioUrl": "/platform/portfolio/cipher/index.html"
     },
     {
         "id": "founder-2",
@@ -17,6 +17,6 @@
         "philosophy": "Code is the architecture of the shadows.",
         "description": "Architecting robust systems and scalable infrastructure. Building the unseen foundations that power the digital experience.",
         "imageUrl": "/founder.png",
-        "portfolioUrl": "https://portfolio-founder-2.com"
+        "portfolioUrl": "/platform/portfolio/archivist/index.html"
     }
 ]

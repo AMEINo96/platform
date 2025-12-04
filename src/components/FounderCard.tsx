@@ -7,9 +7,19 @@ interface FounderCardProps {
     index: number;
 }
 
+import { useNavigate } from 'react-router-dom';
+
 export default function FounderCard({ founder, index }: FounderCardProps) {
+    const navigate = useNavigate();
+
     const handleClick = () => {
-        window.open(founder.portfolioUrl, '_blank');
+        if (founder.portfolioUrl.endsWith('.html')) {
+            window.location.href = founder.portfolioUrl;
+        } else if (founder.portfolioUrl.startsWith('/')) {
+            navigate(founder.portfolioUrl);
+        } else {
+            window.open(founder.portfolioUrl, '_blank');
+        }
     };
 
     return (

@@ -1,19 +1,5 @@
 [
   {
-    "id": "1",
-    "title": "StagePlay Commerce",
-    "description": "An e-commerce stageplay: product photography as character.",
-    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=500",
-    "link": "https://www.google.com/webhp?igu=1",
-    "openIn": "modal",
-    "tags": [
-      "React",
-      "WebGL",
-      "Commerce"
-    ],
-    "category": "Brand"
-  },
-  {
     "id": "2",
     "title": "Skill Match",
     "description": "Connecting students with the perfect teammates for hackathons.",
@@ -28,31 +14,17 @@
     "category": "Webapp"
   },
   {
-    "id": "3",
-    "title": "Shadow Ops",
-    "description": "A tactical stealth game hosted directly inside this platform.",
-    "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80&w=500",
-    "link": "/apps/demo-game/index.html",
-    "openIn": "modal",
+    "id": "5",
+    "title": "CryptoVision",
+    "description": "Real-time cryptocurrency market analysis and visualization dashboard.",
+    "imageUrl": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&q=80&w=500",
+    "link": "https://cryptovision-five.vercel.app/",
+    "openIn": "new-tab",
     "tags": [
-      "GameDev",
-      "Canvas",
-      "Audio"
+      "React",
+      "Crypto",
+      "API"
     ],
-    "category": "Game"
-  },
-  {
-    "id": "4",
-    "title": "Neural Interface",
-    "description": "Experimental UI exploring brain-computer interface aesthetics.",
-    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=500",
-    "link": "#",
-    "openIn": "modal",
-    "tags": [
-      "Experimental",
-      "Three.js",
-      "Shader"
-    ],
-    "category": "Experimental"
+    "category": "Webapp"
   }
 ]
