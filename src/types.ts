@@ -6,7 +6,7 @@ export interface AppConfig {
     link: string;
     openIn: 'modal' | 'new-tab';
     tags?: string[];
-    category?: 'Brand' | 'Webapp' | 'Game' | 'Experimental';
+    category?: 'Brands' | 'Webapps' | 'Games' | 'Experimental' | 'Research';
 }
 
 export interface Founder {

@@ -3,15 +3,15 @@ import { motion } from 'framer-motion';
 export default function PhilosophySection() {
     const steps = [
         {
-            title: "Stealth Research",
+            title: "Research",
             description: "We observe the unseen. Gathering intelligence from the shadows to inform design decisions that others miss."
         },
         {
-            title: "Iteration Loops",
+            title: "Create",
             description: "Rapid prototyping in the dark. We build, break, and rebuild until the solution emerges from the void."
         },
         {
-            title: "Story-First Design",
+            title: "Design",
             description: "Every pixel narrates a chapter. We don't just build interfaces; we construct narratives that users inhabit."
         }
     ];
