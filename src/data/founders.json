@@ -1,8 +1,8 @@
 [
         {
                 "id": "founder-1",
-                "name": "CIPHER",
-                "role": "Creative Director",
+                "name": "KHIZAR",
+                "role": "FOUNDER",
                 "codename": "CIPHER",
                 "philosophy": "We craft worlds that hide in plain sight.",
                 "description": "Specializing in immersive digital experiences and narrative-driven design. Transforming abstract concepts into tangible digital realities.",
@@ -11,8 +11,8 @@
         },
         {
                 "id": "founder-2",
-                "name": "ARCHIVIST",
-                "role": "Technical Lead",
+                "name": "AMEIN",
+                "role": "FOUNDER",
                 "codename": "ARCHIVIST",
                 "philosophy": "Code is the architecture of the shadows.",
                 "description": "Architecting robust systems and scalable infrastructure. Building the unseen foundations that power the digital experience.",
